@@ -1,0 +1,28 @@
+Python scripts included: 24
+All supplied Python scripts passed AST syntax parsing.
+This is not a runtime or model-reproduction test.
+
+analyze_dataset.py
+build_multimodal_dataset.py
+check_report_ids.py
+check_text_label_leakage.py
+demo_v2.py
+evaluate_image_baseline.py
+evaluate_image_matched.py
+evaluate_indication_baseline.py
+evaluate_multimodal.py
+evaluate_multimodal_v2.py
+evaluate_multimodal_v3.py
+evaluate_text_baseline.py
+inspect_multimodal_dataset.py
+optimize_thresholds_v2.py
+prepare_dataset.py
+prepare_indication_splits.py
+prepare_indication_text.py
+split_dataset.py
+train_image_baseline.py
+train_indication_baseline.py
+train_multimodal.py
+train_multimodal_v2.py
+train_multimodal_v3.py
+train_text_baseline.py
